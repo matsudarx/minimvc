@@ -1,0 +1,6 @@
+lib/composer.phar
+lib/vendor/*
+assets/js/lib/node_modules/*
+tmp/*
+log/*
+config/.env

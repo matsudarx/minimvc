@@ -1,0 +1,8 @@
+.ag-theme-quartz {
+    --ag-grid-size: 5px;
+    --ag-list-item-height: 20px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}

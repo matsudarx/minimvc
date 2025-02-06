@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ag-grid-community": "^32.0.2",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
